@@ -36,14 +36,18 @@ The project focuses on optimizing delivery routes and reducing late deliveries i
 - To reproduce the analysis and results:
 1.Clone the repository
 - git clone https://github.com/triptitiwari0307/logistics-data-analyst-internship.git
-cd logistics-data-analyst-internship/Week-1
+- cd logistics-data-analyst-internship/Week-1
+
 2.Install dependencies
 - pip install pandas numpy matplotlib scikit-learn
+
 3.Place dataset
 - Download DataCoSupplyChainDataset.csv.
 - Save it in the same folder as logistics_analysis.py.
+
 4.Run the script
 - python logistics_analysis.py
+
 5.Expected outputs
 - Printed KPIs (on‑time delivery rate, average delay).
 - Bar chart showing late delivery rate by shipping mode.
