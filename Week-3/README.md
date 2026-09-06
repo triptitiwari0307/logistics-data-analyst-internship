@@ -19,8 +19,7 @@ Seven visualizations were built using matplotlib and seaborn — including a del
 | `03_visualizations.py` | Generates all 7 charts using matplotlib/seaborn |
 | `logistics_dataset.csv` | The simulated dataset (1,200 shipments) |
 | `chart1_*.png` – `chart7_*.png` | Generated visualization images |
-| `Week3_Logistics_Data_Analysis_Report.docx` | Full Word report |
-| `Week3_Logistics_Data_Analysis_Report.pdf` | Full PDF report |
+| `Logistics_Data_Analyst_Week3_Report.docx` | Full Word report |
 
 ## Key Insight
 
